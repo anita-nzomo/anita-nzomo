@@ -26,7 +26,7 @@ I design and build high-converting, beautifully animated websites for businesses
 
 A cinematic, gold-accented restaurant site with a custom cursor, slow-zoom hero, auto-scrolling gallery, hover-reveal menu cards, and a full reservation form.
 
-**→ [obsidian-restaurant.netlify.app](https://obsidian-restaurant.netlify.app)**
+**→ [Obsidian](https://obsidian-restaurant-demo.netlify.app)**
 
 ---
 
@@ -35,7 +35,7 @@ A cinematic, gold-accented restaurant site with a custom cursor, slow-zoom hero,
 
 A bold editorial coaching site with a live scrolling marquee, animated grid layout, process steps, testimonials, and a full pricing table.
 
-**→ [zara-coach-demo.netlify.app](https://zara-coach-demo.netlify.app)**
+**→ [Coach Zara Osei](https://zara-coach-demo.netlify.app)**
 
 ---
 
