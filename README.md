@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">The Brandfluent Studio 🎨</h1>
 
-<!--
-**anita-nzomo/anita-nzomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Premium web design for ambitious businesses — delivered in days, not months.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Live demos
+
+| Site | Niche | Live URL |
+|------|-------|----------|
+| 🍽️ Obsidian Restaurant | Dark luxury dining | [obsidian-restaurant.netlify.app](https://obsidian-restaurant.netlify.app) |
+| 🌿 VitalPath Wellness | Family health & nutrition | Coming soon |
+| 🎨 Brandfluent Studio | Agency website | Coming soon |
+
+---
+
+## 🛠 What I build
+
+High-converting landing pages and websites for:
+- Restaurants & hospitality
+- Coaches & consultants  
+- Wellness & health brands
+- Real estate agents
+- Service businesses globally
+
+---
+
+## 📩 Work with me
+
+📧 thebrandfluentstudio@gmail.com  
+🌍 Based in Nairobi · Serving clients globally
