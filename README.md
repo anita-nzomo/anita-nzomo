@@ -10,7 +10,7 @@
 
 | Site | Niche | Live URL |
 |------|-------|----------|
-| 🍽️ Obsidian Restaurant | Dark luxury dining | [obsidian-restaurant.netlify.app](https://obsidian-restaurant.netlify.app) |
+| 🍽️ Obsidian Restaurant | Dark luxury dining | [Check out Obsidian](https://obsidian-restaurant-demo.netlify.app/) |
 | 🌿 VitalPath Wellness | Family health & nutrition | Coming soon |
 | 🎨 Brandfluent Studio | Agency website | Coming soon |
 
